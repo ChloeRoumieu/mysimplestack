@@ -4,6 +4,8 @@ package deqo.crou.mysimplestack.MySimpleStack;
 import java.util.EmptyStackException;
 import java.util.Stack;
 
+/* Commentaire repondant a l'exigence #3 */
+
 public class MyStack implements SimpleStack {
     private Stack <Item> stack = new Stack <Item>();
 
