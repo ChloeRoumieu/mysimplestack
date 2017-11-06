@@ -8,6 +8,9 @@ public class Item {
         this.val = val;
     }
 
+    /* Un commentaire repondant a l'exigence #1
+    * @return
+    * */
     public String printItem() {
         return "Item \n  val :" + val;
     }
